@@ -1,0 +1,41 @@
+red - right - 1
+red - left - 1
+red - top - 1
+red - down - 1
+red - right, left - 1
+red - top, down - 1
+red - top, left - 1
+red - top, right - 1
+red - down, left - 1
+red - down, right - 1
+green - right - 1
+green - left - 1
+green - top - 1
+green - down - 1
+green - right, left - 1
+green - top, down - 1
+green - top, left - 1
+green - top, right - 1
+green - down, left - 1
+green - down, right - 1
+blue - right - 1
+blue - left - 1
+blue - top - 1
+blue - down - 1
+blue - right, left - 1
+blue - top, down - 1
+blue - top, left - 1
+blue - top, right - 1
+blue - down, left - 1
+blue - down, right - 1
+orange - right - 1
+orange - left - 1
+orange - top - 1
+orange - down - 1
+orange - right, left - 1
+orange - top, down - 1
+orange - top, left - 1
+orange - top, right - 1
+orange - down, left - 1
+orange - down, right - 1
+white - null - 1
